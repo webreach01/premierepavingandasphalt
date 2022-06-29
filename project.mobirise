@@ -45,7 +45,7 @@
       "settings": {
         "main": true,
         "title": "Paving and construction company NJ : ASphgalt Contractor : Driveways : Parking Lots : Pavers",
-        "meta_descr": "Paving and construction company : Reliable Construction of New Jersey. Driveway Paving : Sealcoating : parking lots and more. New Jersey and New York : A full service Paving Contractor",
+        "meta_descr": "Paving and construction company : Premier Asphalt & Paving of New Jersey. Driveway Paving : Sealcoating : parking lots and more. New Jersey and New York : A full service Paving Contractor",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -132,7 +132,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"paving_gallery.html\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://reliablecnj.com\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://reliablecnj.com\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SERVICE AREAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\" aria-expanded=\"false\">Bergen County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\" aria-expanded=\"false\">Essex County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\" aria-expanded=\"false\">Morris County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\" aria-expanded=\"false\">Passaic County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\" aria-expanded=\"false\">Union County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\" aria-expanded=\"false\">5 Boroughs of NY</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-4700252\">CALL NOW 973-470-0252</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"paving_gallery.html\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://reliablecnj.com\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://reliablecnj.com\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SERVICE AREAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\" aria-expanded=\"false\">Bergen County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\" aria-expanded=\"false\">Essex County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\" aria-expanded=\"false\">Morris County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\" aria-expanded=\"false\">Passaic County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\" aria-expanded=\"false\">Union County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\" aria-expanded=\"false\">5 Boroughs of NY</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-2246294\">CALL NOW 973-224-6294</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -172,7 +172,7 @@
                 "link": false,
                 "linkUrl": "http://google.com",
                 "image": "@PROJECT_PATH@/assets/images/parking-lot-nj-1op-1600x746.jpg",
-                "title": "Reliable Paving & Construction ",
+                "title": "Premier Asphalt & Paving",
                 "text": "On Budget and On Time!",
                 "tooltip": "@PROJECT_PATH@/assets/images/parking-lot-nj-1op-1-85x39.png"
               },
@@ -182,7 +182,7 @@
                 "link": false,
                 "linkUrl": "http://google.com",
                 "image": "@PROJECT_PATH@/assets/images/parking-lot-4op-1600x746.jpg",
-                "title": "Reliable Paving & Construction ",
+                "title": "Premier Asphalt & Paving ",
                 "text": "Northern New Jersey and the 5 Boroughs of New York",
                 "tooltip": "@PROJECT_PATH@/assets/images/parking-lot-4op-85x39.png"
               },
@@ -192,7 +192,7 @@
                 "link": false,
                 "linkUrl": "http://google.com",
                 "image": "@PROJECT_PATH@/assets/images/paving-equipment-2op-1600x746.jpg",
-                "title": "Reliable Paving & Construction ",
+                "title": "Premier Asphalt & Paving ",
                 "text": "Excellent Customer Service",
                 "tooltip": "@PROJECT_PATH@/assets/images/paving-equipment-2op-85x39.png"
               },
@@ -202,7 +202,7 @@
                 "link": false,
                 "linkUrl": "http://google.com",
                 "image": "@PROJECT_PATH@/assets/images/paving-equipment-4op-1600x746.jpg",
-                "title": "Reliable Paving & Construction ",
+                "title": "Premier Asphalt & Paving ",
                 "text": "",
                 "tooltip": "@PROJECT_PATH@/assets/images/paving-equipment-4op-85x39.png"
               },
@@ -212,7 +212,7 @@
                 "link": false,
                 "linkUrl": "http://google.com",
                 "image": "@PROJECT_PATH@/assets/images/driveway-1op-1600x746.jpg",
-                "title": "Reliable Paving & Construction ",
+                "title": "Premier Asphalt & Paving ",
                 "text": "Residential Paving",
                 "tooltip": "@PROJECT_PATH@/assets/images/driveway-1op-85x39.png"
               },
@@ -222,7 +222,7 @@
                 "link": false,
                 "linkUrl": "http://google.com",
                 "image": "@PROJECT_PATH@/assets/images/driveway-2op-1600x746.jpg",
-                "title": "Reliable Paving & Construction ",
+                "title": "Premier Asphalt & Paving ",
                 "text": "Residential Paving",
                 "tooltip": "@PROJECT_PATH@/assets/images/driveway-2op-85x39.png"
               },
@@ -232,7 +232,7 @@
                 "link": false,
                 "linkUrl": "http://google.com",
                 "image": "@PROJECT_PATH@/assets/images/asphalt-2op-1600x746.jpg",
-                "title": "Reliable Paving & Construction ",
+                "title": "Premier Asphalt & Paving ",
                 "text": "Bergen, Passaic, Union, Morris, Essex and surrounding counties",
                 "tooltip": "@PROJECT_PATH@/assets/images/asphalt-2op-85x39.png"
               },
@@ -242,7 +242,7 @@
                 "link": false,
                 "linkUrl": "http://google.com",
                 "image": "@PROJECT_PATH@/assets/images/asphalt-3op-1600x746.jpg",
-                "title": "Reliable Paving & Construction ",
+                "title": "Premier Asphalt & Paving ",
                 "text": "Bergen, Passaic, Union, Morris, Essex and surrounding counties",
                 "tooltip": "@PROJECT_PATH@/assets/images/asphalt-3op-85x39.png"
               },
@@ -252,7 +252,7 @@
                 "link": false,
                 "linkUrl": "http://google.com",
                 "image": "@PROJECT_PATH@/assets/images/parking-lot-5op-1600x746.jpg",
-                "title": "Reliable Paving & Construction ",
+                "title": "Premier Asphalt & Paving ",
                 "text": "Bergen, Passaic, Union, Morris, Essex and surrounding counties",
                 "tooltip": "@PROJECT_PATH@/assets/images/parking-lot-5op-85x39.png"
               },
@@ -262,7 +262,7 @@
                 "link": false,
                 "linkUrl": "http://google.com",
                 "image": "@PROJECT_PATH@/assets/images/parking-lot-3op-1600x746.jpg",
-                "title": "Reliable Paving & Construction ",
+                "title": "Premier Asphalt & Paving ",
                 "text": "Commercial Paving",
                 "tooltip": "@PROJECT_PATH@/assets/images/parking-lot-3op-85x39.png"
               },
@@ -272,7 +272,7 @@
                 "link": false,
                 "linkUrl": "http://google.com",
                 "image": "@PROJECT_PATH@/assets/images/parking-lot-7op-1600x746.jpg",
-                "title": "Reliable Paving & Construction ",
+                "title": "Premier Asphalt & Paving ",
                 "text": "Commercial Paving",
                 "tooltip": "@PROJECT_PATH@/assets/images/parking-lot-7op-85x39.png"
               }
@@ -356,7 +356,7 @@
           },
           "title": "Click here for&nbsp;<a href=\"free-paving-estimate-schedule-appointment.html\" class=\"text-info\">Free Estimate</a>!",
           "text": "or Mobile users...you can use our easy DIAL NOW button to call us!",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-4700252\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973) 470-0252</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-2246294\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973) 224 6294</a>",
           "_tags": [
             "Theme"
           ],
@@ -474,7 +474,7 @@
               "active": true
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Reliable Paving &amp; Construction</span>",
+          "title": "<span style=\"font-weight: normal;\">Premier Asphalt &amp; Paving</span>",
           "subtitle": "Serving Northern and Central New Jersey and the 5 Boroughs of New York<br>",
           "title1": "Premium Asphalt Paving &amp; Construction",
           "subtitle1": "<span style=\"font-style: normal;\">New Jersey Paving Contractor</span>",
@@ -809,7 +809,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Reliable Paving &amp; Construction</b> has been providing paving services to New Jersey for a very long time. With 20+ years of experience.&nbsp;<span style=\"font-size: 1.07rem;\">We want our residential paving customers and our commercial business owners to make the right choices and we provide the information and expertise to make that happen. Based in New Jersey, we proudly service Bergen, Passaic, Union, Morris, Essex and surrounding Countiesas well as the five boroughs of New York.</span></p><p><br></p><p><span style=\"font-size: 1.07rem;\">The management team at Reliable makes it a priority to personally supervise every aspect of all residential paving, commercial paving and maintenance projects. We know that the only measure of our success is the satisfaction of our customers.&nbsp;</span><br></p><p><br></p><p>&nbsp;We are known for our reliable, attentive customer service. Every project is personally overseen by the owner himself who has over 20+ years of paving and masonry experience and thousands of satisfied customers throughout the New Jersey and the New York area.&nbsp;</p>",
+          "text": "<p><b>Premier Asphalt &amp; Paving</b> has been providing paving services to New Jersey for a very long time. With 20+ years of experience.&nbsp;<span style=\"font-size: 1.07rem;\">We want our residential paving customers and our commercial business owners to make the right choices and we provide the information and expertise to make that happen. Based in New Jersey, we proudly service Bergen, Passaic, Union, Morris, Essex and surrounding Countiesas well as the five boroughs of New York.</span></p><p><br></p><p><span style=\"font-size: 1.07rem;\">The management team at Reliable makes it a priority to personally supervise every aspect of all residential paving, commercial paving and maintenance projects. We know that the only measure of our success is the satisfaction of our customers.&nbsp;</span><br></p><p><br></p><p>&nbsp;We are known for our reliable, attentive customer service. Every project is personally overseen by the owner himself who has over 20+ years of paving and masonry experience and thousands of satisfied customers throughout the New Jersey and the New York area.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -827,7 +827,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><b>Reliable Paving</b> is a family owned and operated supervised company that is licensed, bonded and insured by the state of New Jersey. Our friendly and professional staff are here to answer any questions you may have about our company or our asphalt paving services. Whatever your asphalt paving needs are, w<span style=\"font-size: 1.09rem; line-height: 1.5;\">e are happy to provide paving evaluations and free quotations upon request. Call today at&nbsp;<b>(973) 470-0252 </b>or fill out our <a href=\"free-paving-estimate-schedule-appointment.html\">easy online form</a> to schedule a <a href=\"free-paving-estimate-schedule-appointment.html\">free no-obligation estimate.</a></span></blockquote>"
+          "text": "<blockquote><b>Reliable Paving</b> is a family owned and operated supervised company that is licensed, bonded and insured by the state of New Jersey. Our friendly and professional staff are here to answer any questions you may have about our company or our asphalt paving services. Whatever your asphalt paving needs are, w<span style=\"font-size: 1.09rem; line-height: 1.5;\">e are happy to provide paving evaluations and free quotations upon request. Call today at&nbsp;<b>(973) 224 6294 </b>or fill out our <a href=\"free-paving-estimate-schedule-appointment.html\">easy online form</a> to schedule a <a href=\"free-paving-estimate-schedule-appointment.html\">free no-obligation estimate.</a></span></blockquote>"
         },
         {
           "_styles": {
@@ -923,7 +923,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-4700252\" data-toolbar=\"-mbrBtnMove\"><strong>DIAL NOW (973) 470-0252</strong></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-2246294\" data-toolbar=\"-mbrBtnMove\"><strong>DIAL NOW (973) 224 6294</strong></a>",
           "title": "or Request Your <a href=\"free-paving-estimate-schedule-appointment.html\" class=\"text-info\">Free Estimate</a>&nbsp;here!",
           "text": "Mobile users! Click our easy DIAL NOW button to call now!"
         },
@@ -953,7 +953,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 RELIABLE PAVING AND CONSTRUCTION. All Rights Reserved.&nbsp;"
+          "text": "Copyright (c) 2019 PREMIER ASPHALT AND PAVING. All Rights Reserved.&nbsp;"
         },
         {
           "_styles": {
@@ -986,7 +986,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "<br>RELIABLE PAVING &amp; CONSTRUCTION<br>Residential Paving for New Jersey &amp; New York",
+          "title": "<br>Premier Asphalt &amp; Paving<br>Residential Paving for New Jersey &amp; New York",
           "text": "<p>RESIDENTIAL, COMMERCIAL &amp; INDUSTRIAL&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"free-paving-estimate-schedule-appointment.html\" data-toolbar=\"-mbrBtnMove\">SCHEDULE YOUR FREE QUOTE</a>",
           "_tags": [
@@ -1009,13 +1009,13 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<b>Licensed Bonded &amp; Insured<br>\nFamily Owned ans Operated<br>\nOver 20+ Years Experience</b><br><br><br>\n<strong>Contact Information</strong><br>\nEmail:<a href=\"mailto:info@reliablecnj.com\"> </a><b><a href=\"mailto:info@reliablecnj.com\">info@reliablecnj.com</a></b><br>\nPhone:<b> (973) 470-0252</b><br><br>LEAVE US A<b>&nbsp;&nbsp;<a href=\"https://bit.ly/31nEKbm\" target=\"_blank\">REVIEW ON GOOGLE</a></b><br><b><a href=\"https://bit.ly/31nEKbm\" target=\"_blank\"><br></a></b>",
+          "text1": "<b>Licensed Bonded &amp; Insured<br>\nFamily Owned ans Operated<br>\nOver 20+ Years Experience</b><br><br><br>\n<strong>Contact Information</strong><br>\nEmail:<a href=\"mailto:info@reliablecnj.com\"> </a><b><a href=\"mailto:info@reliablecnj.com\">info@reliablecnj.com</a></b><br>\nPhone:<b> (973) 224 6294</b><br><br>LEAVE US A<b>&nbsp;&nbsp;<a href=\"https://bit.ly/31nEKbm\" target=\"_blank\">REVIEW ON GOOGLE</a></b><br><b><a href=\"https://bit.ly/31nEKbm\" target=\"_blank\"><br></a></b>",
           "text2": "<p class=\"mbr-contacts__text\"><b>Service Areas</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\">Bergen County</a></li><li><a href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\">Essex County</a></li><li><a href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\">Morris County</a></li><li><a href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\">Passaic County</a></li><li><a href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\">Union County</a></li><li><a href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\">5 Boroughs of New York</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "info@reliablecnj.com",
             "alerts": {
-              "success": "Thank you for your interest in Reliable Paving and Construction.  We will respond as soon as possible."
+              "success": "Thank you for your interest in PREMIER ASPHALT AND PAVING.  We will respond as soon as possible."
             },
             "fields": {
               "name": {
@@ -1089,8 +1089,8 @@
     },
     "paving_gallery.html": {
       "settings": {
-        "title": "Paving Gallery  :  Paving and construction by Reliable Construction of New Jersey",
-        "meta_descr": "Reliable Paving and Construction of New Jersey invites you to check out their work .  The relationship with our customers and our excellent reviews reflect how important and how serious we take the confidence and trust they place with us.",
+        "title": "Paving Gallery  :  Paving and construction by Premier Asphalt & Paving of New Jersey",
+        "meta_descr": "PREMIER ASPHALT AND PAVING of New Jersey invites you to check out their work .  The relationship with our customers and our excellent reviews reflect how important and how serious we take the confidence and trust they place with us.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1178,7 +1178,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"paving_gallery.html\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://reliablecnj.com\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://reliablecnj.com\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SERVICE AREAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\" aria-expanded=\"false\">Bergen County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\" aria-expanded=\"false\">Essex County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\" aria-expanded=\"false\">Morris County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\" aria-expanded=\"false\">Passaic County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\" aria-expanded=\"false\">Union County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\" aria-expanded=\"false\">5 Boroughs of NY</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-4700252\">CALL NOW 973-470-0252</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"paving_gallery.html\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://reliablecnj.com\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://reliablecnj.com\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SERVICE AREAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\" aria-expanded=\"false\">Bergen County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\" aria-expanded=\"false\">Essex County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\" aria-expanded=\"false\">Morris County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\" aria-expanded=\"false\">Passaic County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\" aria-expanded=\"false\">Union County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\" aria-expanded=\"false\">5 Boroughs of NY</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-2246294\">CALL NOW 973-224-6294</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1488,7 +1488,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"tel:+1-973-4700252\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973)470-0251</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"tel:+1-973-2246294\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973)470-0251</a>",
           "title": "Call NOW for your <a href=\"free-paving-estimate-schedule-appointment.html\">Free Estimate</a>",
           "text": "Mobile users! Click our easy DIAL NOW button to call!",
           "_anchor": "msg-box2-t"
@@ -1507,13 +1507,13 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<b>Licensed Bonded &amp; Insured<br>\nFamily Owned ans Operated<br>\nOver 20+ Years Experience</b><br><br><br>\n<strong>Contact Information</strong><br>\nEmail:<a href=\"mailto:info@reliablecnj.com\"> </a><b><a href=\"mailto:info@reliablecnj.com\">info@reliablecnj.com</a></b><br>\nPhone:<b> (973) 470-0252</b><br><br>LEAVE US A<b>&nbsp;&nbsp;<a href=\"https://bit.ly/31nEKbm\" target=\"_blank\">REVIEW ON GOOGLE</a></b><br><b><a href=\"https://bit.ly/31nEKbm\" target=\"_blank\"><br></a></b>",
+          "text1": "<b>Licensed Bonded &amp; Insured<br>\nFamily Owned ans Operated<br>\nOver 20+ Years Experience</b><br><br><br>\n<strong>Contact Information</strong><br>\nEmail:<a href=\"mailto:info@reliablecnj.com\"> </a><b><a href=\"mailto:info@reliablecnj.com\">info@reliablecnj.com</a></b><br>\nPhone:<b> (973) 224 6294</b><br><br>LEAVE US A<b>&nbsp;&nbsp;<a href=\"https://bit.ly/31nEKbm\" target=\"_blank\">REVIEW ON GOOGLE</a></b><br><b><a href=\"https://bit.ly/31nEKbm\" target=\"_blank\"><br></a></b>",
           "text2": "<p class=\"mbr-contacts__text\"><b>Service Areas</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\">Bergen County</a></li><li><a href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\">Essex County</a></li><li><a href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\">Morris County</a></li><li><a href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\">Passaic County</a></li><li><a href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\">Union County</a></li><li><a href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\">5 Boroughs of New York</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "reliablecnj@gmail.com",
             "alerts": {
-              "success": "Thank you for your interest in Reliable Paving and Construction.  We will respond as soon as possible."
+              "success": "Thank you for your interest in PREMIER ASPHALT AND PAVING.  We will respond as soon as possible."
             },
             "fields": {
               "name": {
@@ -1608,7 +1608,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 RELIABLE PAVING AND CONSTRUCTION. All Rights Reserved.&nbsp;",
+          "text": "Copyright (c) 2019 PREMIER ASPHALT AND PAVING. All Rights Reserved.&nbsp;",
           "_anchor": "footer1-x"
         }
       ]
@@ -1616,7 +1616,7 @@
     "residential-paving-construction-driveways-pathways-masonry.html": {
       "settings": {
         "title": "Residential Paving and construction NJ - Driveways - Pathways - Masonry ",
-        "meta_descr": "Residential Paving Contractor - driveway paving,  asphalt paving, belgium block, concrete, brick pavers and general construction for  New Jersey homeowners. Reliable Construction of NJersey. Driveway Paving : Sealcoating : parking lots and more.  A full service NJ Paving Company",
+        "meta_descr": "Residential Paving Contractor - driveway paving,  asphalt paving, belgium block, concrete, brick pavers and general construction for  New Jersey homeowners. Premier Asphalt & Paving of NJersey. Driveway Paving : Sealcoating : parking lots and more.  A full service NJ Paving Company",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1704,7 +1704,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"paving_gallery.html\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://reliablecnj.com\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://reliablecnj.com\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SERVICE AREAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\" aria-expanded=\"false\">Bergen County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\" aria-expanded=\"false\">Essex County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\" aria-expanded=\"false\">Morris County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\" aria-expanded=\"false\">Passaic County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\" aria-expanded=\"false\">Union County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\" aria-expanded=\"false\">5 Boroughs of NY</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-4700252\">CALL NOW 973-470-0252</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"paving_gallery.html\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://reliablecnj.com\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://reliablecnj.com\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SERVICE AREAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\" aria-expanded=\"false\">Bergen County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\" aria-expanded=\"false\">Essex County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\" aria-expanded=\"false\">Morris County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\" aria-expanded=\"false\">Passaic County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\" aria-expanded=\"false\">Union County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\" aria-expanded=\"false\">5 Boroughs of NY</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-2246294\">CALL NOW 973-224-6294</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1758,7 +1758,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "<br>RELIABLE PAVING &amp; CONSTRUCTION<br>Residential Paving for New Jersey &amp; New York",
+          "title": "<br>Premier Asphalt &amp; Paving<br>Residential Paving for New Jersey &amp; New York",
           "text": "<p>RESIDENTIAL, COMMERCIAL &amp; INDUSTRIAL&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"free-paving-estimate-schedule-appointment.html\" data-toolbar=\"-mbrBtnMove\">SCHEDULE YOUR FREE QUOTE</a>",
           "_tags": [
@@ -1825,7 +1825,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>By selecting the&nbsp;<b>Reliable Construction Company</b> for your home paving or construction project you can have peace of mind, knowing that we will deliver a high quality driveway within your budget and timeframe. We employ the same state of the art equipment, skilled employees, and quality control measures for your driveway as we do for large commercial jobs.&nbsp;</p><p><br></p><p>We have experience and knowhow to handle your long or large driveway needs. Whether it is a lake home with an extra long driveway, or a driveway for your multiple-garage home, we have done it all. We have the expertise to handle any type of driveway in any location.&nbsp;</p><p><span style=\"font-size: 1.07rem;\">Whether you are building a new house or replacing an existing driveway, the <b>Reliable Paving &amp; Construction</b> team can help you to design a customized asphalt, brick, stone or concrete solution that best fits your needs and compliments the design of your home.</span><br></p>",
+          "text": "<p>By selecting the&nbsp;<b>Premier Asphalt & Paving Company</b> for your home paving or construction project you can have peace of mind, knowing that we will deliver a high quality driveway within your budget and timeframe. We employ the same state of the art equipment, skilled employees, and quality control measures for your driveway as we do for large commercial jobs.&nbsp;</p><p><br></p><p>We have experience and knowhow to handle your long or large driveway needs. Whether it is a lake home with an extra long driveway, or a driveway for your multiple-garage home, we have done it all. We have the expertise to handle any type of driveway in any location.&nbsp;</p><p><span style=\"font-size: 1.07rem;\">Whether you are building a new house or replacing an existing driveway, the <b>Premier Asphalt &amp; Paving</b> team can help you to design a customized asphalt, brick, stone or concrete solution that best fits your needs and compliments the design of your home.</span><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2247,7 +2247,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Our Pride is in our WORKMANSHIP",
-          "text": "<p>Reliable Construction takes pride in providing quality workmanship! &nbsp;Feel secure in knowing that we provide excellent customer service for the lifespan of our residential and commercial customers paving projects. Use the buttons below to fill out our form requesting a free estimate or our mobile users may select the Call Now button to speak directly with a representative during normal business hours.</p>",
+          "text": "<p>Premier Asphalt & Paving takes pride in providing quality workmanship! &nbsp;Feel secure in knowing that we provide excellent customer service for the lifespan of our residential and commercial customers paving projects. Use the buttons below to fill out our form requesting a free estimate or our mobile users may select the Call Now button to speak directly with a representative during normal business hours.</p>",
           "_tags": [
             "Theme"
           ],
@@ -2261,7 +2261,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"free-paving-estimate-schedule-appointment.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"imind-mouse-3 mbr-iconfont mbr-iconfont-btn\"></span>Request Your <br>Free Estimate</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"tel:+1-973-4700252\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-volume-control-phone mbr-iconfont mbr-iconfont-btn\"></span>CALL NOW<br>(973) 470-0252<br></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"free-paving-estimate-schedule-appointment.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"imind-mouse-3 mbr-iconfont mbr-iconfont-btn\"></span>Request Your <br>Free Estimate</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"tel:+1-973-2246294\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-volume-control-phone mbr-iconfont mbr-iconfont-btn\"></span>CALL NOW<br>(973) 224 6294<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -2455,13 +2455,13 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<b>Licensed Bonded &amp; Insured<br>\nFamily Owned ans Operated<br>\nOver 20+ Years Experience</b><br><br><br>\n<strong>Contact Information</strong><br>\nEmail:<a href=\"mailto:info@reliablecnj.com\"> </a><b><a href=\"mailto:info@reliablecnj.com\">info@reliablecnj.com</a></b><br>\nPhone:<b> (973) 470-0252</b><br><br>LEAVE US A<b>&nbsp;&nbsp;<a href=\"https://bit.ly/31nEKbm\" target=\"_blank\">REVIEW ON GOOGLE</a></b><br><b><a href=\"https://bit.ly/31nEKbm\" target=\"_blank\"><br></a></b>",
+          "text1": "<b>Licensed Bonded &amp; Insured<br>\nFamily Owned ans Operated<br>\nOver 20+ Years Experience</b><br><br><br>\n<strong>Contact Information</strong><br>\nEmail:<a href=\"mailto:info@reliablecnj.com\"> </a><b><a href=\"mailto:info@reliablecnj.com\">info@reliablecnj.com</a></b><br>\nPhone:<b> (973) 224 6294</b><br><br>LEAVE US A<b>&nbsp;&nbsp;<a href=\"https://bit.ly/31nEKbm\" target=\"_blank\">REVIEW ON GOOGLE</a></b><br><b><a href=\"https://bit.ly/31nEKbm\" target=\"_blank\"><br></a></b>",
           "text2": "<p class=\"mbr-contacts__text\"><b>Service Areas</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\">Bergen County</a></li><li><a href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\">Essex County</a></li><li><a href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\">Morris County</a></li><li><a href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\">Passaic County</a></li><li><a href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\">Union County</a></li><li><a href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\">5 Boroughs of New York</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "reliablecnj@gmail.com",
             "alerts": {
-              "success": "Thank you for your interest in Reliable Paving and Construction.  We will respond as soon as possible."
+              "success": "Thank you for your interest in PREMIER ASPHALT AND PAVING.  We will respond as soon as possible."
             },
             "fields": {
               "name": {
@@ -2521,7 +2521,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 RELIABLE PAVING AND CONSTRUCTION. All Rights Reserved.&nbsp;",
+          "text": "Copyright (c) 2019 PREMIER ASPHALT AND PAVING. All Rights Reserved.&nbsp;",
           "_anchor": "footer1-2m"
         }
       ]
@@ -2617,7 +2617,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"paving_gallery.html\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://reliablecnj.com\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://reliablecnj.com\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SERVICE AREAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\" aria-expanded=\"false\">Bergen County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\" aria-expanded=\"false\">Essex County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\" aria-expanded=\"false\">Morris County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\" aria-expanded=\"false\">Passaic County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\" aria-expanded=\"false\">Union County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\" aria-expanded=\"false\">5 Boroughs of NY</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-4700252\">CALL NOW 973-470-0252</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"paving_gallery.html\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://reliablecnj.com\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://reliablecnj.com\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SERVICE AREAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\" aria-expanded=\"false\">Bergen County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\" aria-expanded=\"false\">Essex County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\" aria-expanded=\"false\">Morris County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\" aria-expanded=\"false\">Passaic County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\" aria-expanded=\"false\">Union County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\" aria-expanded=\"false\">5 Boroughs of NY</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-2246294\">CALL NOW 973-224-6294</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2795,13 +2795,13 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<b>Licensed Bonded &amp; Insured<br>\nFamily Owned ans Operated<br>\nOver 20+ Years Experience</b><br><br><br>\n<strong>Contact Information</strong><br>\nEmail:<a href=\"mailto:info@reliablecnj.com\"> </a><b><a href=\"mailto:info@reliablecnj.com\">info@reliablecnj.com</a></b><br>\nPhone:<b> (973) 470-0252</b><br><br>LEAVE US A<b>&nbsp;&nbsp;<a href=\"https://bit.ly/31nEKbm\" target=\"_blank\">REVIEW ON GOOGLE</a></b><br><b><a href=\"https://bit.ly/31nEKbm\" target=\"_blank\"><br></a></b>",
+          "text1": "<b>Licensed Bonded &amp; Insured<br>\nFamily Owned ans Operated<br>\nOver 20+ Years Experience</b><br><br><br>\n<strong>Contact Information</strong><br>\nEmail:<a href=\"mailto:info@reliablecnj.com\"> </a><b><a href=\"mailto:info@reliablecnj.com\">info@reliablecnj.com</a></b><br>\nPhone:<b> (973) 224 6294</b><br><br>LEAVE US A<b>&nbsp;&nbsp;<a href=\"https://bit.ly/31nEKbm\" target=\"_blank\">REVIEW ON GOOGLE</a></b><br><b><a href=\"https://bit.ly/31nEKbm\" target=\"_blank\"><br></a></b>",
           "text2": "<p class=\"mbr-contacts__text\"><b>Service Areas</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\">Bergen County</a></li><li><a href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\">Essex County</a></li><li><a href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\">Morris County</a></li><li><a href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\">Passaic County</a></li><li><a href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\">Union County</a></li><li><a href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\">5 Boroughs of New York</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "info@reliablecnj.com",
             "alerts": {
-              "success": "Thank you for your interest in Reliable Paving and Construction.  We will respond as soon as possible."
+              "success": "Thank you for your interest in PREMIER ASPHALT AND PAVING.  We will respond as soon as possible."
             },
             "fields": {
               "name": {
@@ -2861,14 +2861,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 RELIABLE PAVING AND CONSTRUCTION. All Rights Reserved.&nbsp;",
+          "text": "Copyright (c) 2019 PREMIER ASPHALT AND PAVING. All Rights Reserved.&nbsp;",
           "_anchor": "footer1-3l"
         }
       ]
     },
     "thankyou.html": {
       "settings": {
-        "title": "Thanks You from Reliable Paving and Construction",
+        "title": "Thanks You from PREMIER ASPHALT AND PAVING",
         "meta_descr": "Residential Paving and construction - Driveways : Sealcoating : parking lots, grading, construction, asphalt maintenanceand more.  A full service Paving Contractor",
         "header_custom": "",
         "footer_custom": "",
@@ -2957,7 +2957,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"paving_gallery.html\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://reliablecnj.com\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://reliablecnj.com\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SERVICE AREAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\" aria-expanded=\"false\">Bergen County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\" aria-expanded=\"false\">Essex County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\" aria-expanded=\"false\">Morris County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\" aria-expanded=\"false\">Passaic County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\" aria-expanded=\"false\">Union County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\" aria-expanded=\"false\">5 Boroughs of NY</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-4700252\">CALL NOW 973-470-0252</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"paving_gallery.html\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://reliablecnj.com\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://reliablecnj.com\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SERVICE AREAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\" aria-expanded=\"false\">Bergen County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\" aria-expanded=\"false\">Essex County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\" aria-expanded=\"false\">Morris County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\" aria-expanded=\"false\">Passaic County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\" aria-expanded=\"false\">Union County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\" aria-expanded=\"false\">5 Boroughs of NY</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-2246294\">CALL NOW 973-224-6294</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3015,7 +3015,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Success!",
-          "text": "<p>Thank you for your interest in Reliable Paving &amp; Construction.<br>Someone will be in touch to discuss your paving needs.</p>",
+          "text": "<p>Thank you for your interest in Premier Asphalt &amp; Paving.<br>Someone will be in touch to discuss your paving needs.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -3098,13 +3098,13 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<b>Licensed Bonded &amp; Insured<br>\nFamily Owned ans Operated<br>\nOver 20+ Years Experience</b><br><br><br>\n<strong>Contact Information</strong><br>\nEmail:<a href=\"mailto:info@reliablecnj.com\"> </a><b><a href=\"mailto:info@reliablecnj.com\">info@reliablecnj.com</a></b><br>\nPhone:<b> (973) 470-0252</b><br><br>LEAVE US A<b>&nbsp;&nbsp;<a href=\"https://bit.ly/31nEKbm\" target=\"_blank\">REVIEW ON GOOGLE</a></b><br><b><a href=\"https://bit.ly/31nEKbm\" target=\"_blank\"><br></a></b>",
+          "text1": "<b>Licensed Bonded &amp; Insured<br>\nFamily Owned ans Operated<br>\nOver 20+ Years Experience</b><br><br><br>\n<strong>Contact Information</strong><br>\nEmail:<a href=\"mailto:info@reliablecnj.com\"> </a><b><a href=\"mailto:info@reliablecnj.com\">info@reliablecnj.com</a></b><br>\nPhone:<b> (973) 224 6294</b><br><br>LEAVE US A<b>&nbsp;&nbsp;<a href=\"https://bit.ly/31nEKbm\" target=\"_blank\">REVIEW ON GOOGLE</a></b><br><b><a href=\"https://bit.ly/31nEKbm\" target=\"_blank\"><br></a></b>",
           "text2": "<p class=\"mbr-contacts__text\"><b>Service Areas</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\">Bergen County</a></li><li><a href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\">Essex County</a></li><li><a href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\">Morris County</a></li><li><a href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\">Passaic County</a></li><li><a href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\">Union County</a></li><li><a href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\">5 Boroughs of New York</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "reliablecnj@gmail.com",
             "alerts": {
-              "success": "Thank you for your interest in Reliable Paving and Construction.  We will respond as soon as possible."
+              "success": "Thank you for your interest in PREMIER ASPHALT AND PAVING.  We will respond as soon as possible."
             },
             "fields": {
               "name": {
@@ -3164,7 +3164,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 RELIABLE PAVING AND CONSTRUCTION. All Rights Reserved.&nbsp;",
+          "text": "Copyright (c) 2019 PREMIER ASPHALT AND PAVING. All Rights Reserved.&nbsp;",
           "_anchor": "footer1-3l"
         }
       ]
@@ -3210,7 +3210,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "<br>RELIABLE PAVING &amp; CONSTRUCTION<br>Commercial Paving for New Jersey &amp; New York",
+          "title": "<br>Premier Asphalt &amp; Paving<br>Commercial Paving for New Jersey &amp; New York",
           "text": "<p>RESIDENTIAL, COMMERCIAL &amp; INDUSTRIAL&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"free-paving-estimate-schedule-appointment.html\" data-toolbar=\"-mbrBtnMove\">SCHEDULE YOUR FREE QUOTE</a>",
           "_tags": [
@@ -3352,7 +3352,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"paving_gallery.html\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://reliablecnj.com\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://reliablecnj.com\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SERVICE AREAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\" aria-expanded=\"false\">Bergen County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\" aria-expanded=\"false\">Essex County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\" aria-expanded=\"false\">Morris County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\" aria-expanded=\"false\">Passaic County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\" aria-expanded=\"false\">Union County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\" aria-expanded=\"false\">5 Boroughs of NY</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-4700252\">CALL NOW 973-470-0252</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"paving_gallery.html\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://reliablecnj.com\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://reliablecnj.com\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SERVICE AREAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\" aria-expanded=\"false\">Bergen County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\" aria-expanded=\"false\">Essex County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\" aria-expanded=\"false\">Morris County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\" aria-expanded=\"false\">Passaic County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\" aria-expanded=\"false\">Union County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\" aria-expanded=\"false\">5 Boroughs of NY</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-2246294\">CALL NOW 973-224-6294</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3404,7 +3404,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>As a long-standing commercial paving and construction contractor in New Jersey and New York, we know that image is everything in a business. The condition of your parking lot or driveway is a good indicator of the state of your business. &nbsp;If your parking lot or driveway is full of unsightly cracks and potholes, then your customers and other stakeholders will not feel comfortable doing business with you. A well paved driveway and parking lot shows your customers that you care about their safety and that you want to protect their vehicles from damage when they visit your premises.</p><p><br></p><p><b>Reliable Paving &amp; Construction</b> will work closely with you to maximize your space and to make sure that the design of your driveway and parking lot compliment your building design.&nbsp;<span style=\"font-size: 1.07rem;\">We create pavements that last and customer satisfaction is our highest priority. That is why most of our commercial paving customers have been with us for over 25 years. They keep coming back because they know we are reliable and we deliver high quality finished work.</span></p>",
+          "text": "<p>As a long-standing commercial paving and construction contractor in New Jersey and New York, we know that image is everything in a business. The condition of your parking lot or driveway is a good indicator of the state of your business. &nbsp;If your parking lot or driveway is full of unsightly cracks and potholes, then your customers and other stakeholders will not feel comfortable doing business with you. A well paved driveway and parking lot shows your customers that you care about their safety and that you want to protect their vehicles from damage when they visit your premises.</p><p><br></p><p><b>Premier Asphalt &amp; Paving</b> will work closely with you to maximize your space and to make sure that the design of your driveway and parking lot compliment your building design.&nbsp;<span style=\"font-size: 1.07rem;\">We create pavements that last and customer satisfaction is our highest priority. That is why most of our commercial paving customers have been with us for over 25 years. They keep coming back because they know we are reliable and we deliver high quality finished work.</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -3692,7 +3692,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-4700252\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973)470-0252</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-2246294\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973) 224 6294</a>",
           "title": "Call NOW for your <a href=\"free-paving-estimate-schedule-appointment.html\" class=\"text-info\">Free Estimate</a>",
           "text": "Mobile users! Click our easy DIAL NOW button to call!",
           "_anchor": "msg-box2-36"
@@ -3745,13 +3745,13 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<b>Licensed Bonded &amp; Insured<br>\nFamily Owned ans Operated<br>\nOver 20+ Years Experience</b><br><br><br>\n<strong>Contact Information</strong><br>\nEmail:<a href=\"mailto:info@reliablecnj.com\"> </a><b><a href=\"mailto:info@reliablecnj.com\">info@reliablecnj.com</a></b><br>\nPhone:<b> (973) 470-0252</b><br><br>LEAVE US A<b>&nbsp;&nbsp;<a href=\"https://bit.ly/31nEKbm\" target=\"_blank\">REVIEW ON GOOGLE</a></b><br><b><a href=\"https://bit.ly/31nEKbm\" target=\"_blank\"><br></a></b>",
+          "text1": "<b>Licensed Bonded &amp; Insured<br>\nFamily Owned ans Operated<br>\nOver 20+ Years Experience</b><br><br><br>\n<strong>Contact Information</strong><br>\nEmail:<a href=\"mailto:info@reliablecnj.com\"> </a><b><a href=\"mailto:info@reliablecnj.com\">info@reliablecnj.com</a></b><br>\nPhone:<b> (973) 224 6294</b><br><br>LEAVE US A<b>&nbsp;&nbsp;<a href=\"https://bit.ly/31nEKbm\" target=\"_blank\">REVIEW ON GOOGLE</a></b><br><b><a href=\"https://bit.ly/31nEKbm\" target=\"_blank\"><br></a></b>",
           "text2": "<p class=\"mbr-contacts__text\"><b>Service Areas</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\">Bergen County</a></li><li><a href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\">Essex County</a></li><li><a href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\">Morris County</a></li><li><a href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\">Passaic County</a></li><li><a href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\">Union County</a></li><li><a href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\">5 Boroughs of New York</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "reliablecnj@gmail.com",
             "alerts": {
-              "success": "Thank you for your interest in Reliable Paving and Construction.  We will respond as soon as possible."
+              "success": "Thank you for your interest in PREMIER ASPHALT AND PAVING.  We will respond as soon as possible."
             },
             "fields": {
               "name": {
@@ -3811,7 +3811,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 RELIABLE PAVING AND CONSTRUCTION. All Rights Reserved.&nbsp;",
+          "text": "Copyright (c) 2019 PREMIER ASPHALT AND PAVING. All Rights Reserved.&nbsp;",
           "_anchor": "footer1-3a"
         }
       ]

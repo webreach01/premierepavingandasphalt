@@ -43,7 +43,7 @@
     "manhattan-ny-paving-contractor-construction-company.html": {
       "settings": {
         "title": "Manhattan NY Paving Company : Paving and Construction Contractor ",
-        "meta_descr": "Manhattan NY Paving and Construction Contractor - asphalt paving company, belgium block, concrete, brick pavers and general construction in the borough of Manhattan and surrounding areas. Reliable Construction of New York. Driveway Paving : Sealcoating : parking lots and more. ",
+        "meta_descr": "Manhattan NY Paving and Construction Contractor - asphalt paving company, belgium block, concrete, brick pavers and general construction in the borough of Manhattan and surrounding areas. Premier Asphalt & Paving of New York. Driveway Paving : Sealcoating : parking lots and more. ",
         "header_custom": "<meta name=\"googlebot\" content=\"noodp\">\n<meta name=\"keywords\" content=“manhattan ny paving contractor, manhattan paving company, manhattan, commercial paving manhattan, residential paving manhattan, asphalt paving, ny“ />\n<meta name=\"robots\" content=\"index, follow\">\n<!-- manhattan, paving, contractor -->",
         "footer_custom": "",
         "html_before": "",
@@ -131,15 +131,15 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/paving_gallery.html\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-4700252\">CALL NOW 973-470-0252</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/paving_gallery.html\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-2246294\">CALL NOW 973-224-6294</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-construction-white-sm-1-299x90.png",
               "height": 128,
-              "alt": "Reliable Paving and Construction  Morris County NJ",
+              "alt": "PREMIER ASPHALT AND PAVING  Morris County NJ",
               "link": "https://reliablecnj.com",
-              "title": "Reliable Paving and Construction  Morris County NJ"
+              "title": "PREMIER ASPHALT AND PAVING  Morris County NJ"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -185,7 +185,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "Reliable Paving &amp; Construction",
+          "title": "Premier Asphalt &amp; Paving",
           "text": "<p><b>MANHATTAN NY PAVING CONTRACTOR</b><br><b>Serving Northern / Central New Jersey / 5 Boroughs of New York</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -279,7 +279,7 @@
               "active": true
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Reliable Paving &amp; Construction</span>",
+          "title": "<span style=\"font-weight: normal;\">Premier Asphalt &amp; Paving</span>",
           "subtitle": "<b>Serving Northern and Central New Jersey and the 5 Boroughs of New York</b>",
           "title1": "Premium Asphalt Paving &amp; Construction",
           "subtitle1": "<b style=\"font-style: normal;\">Manhattan NY, Contractor</b>",
@@ -696,7 +696,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-4700252\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973) 470-0252</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-2246294\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973) 224 6294</a>",
           "title": "Hello Manhattan NY!<br>Call Now or Request Your <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">Free Estimate</a>&nbsp;here!",
           "text": "Mobile users! Click our easy DIAL NOW button to call now!"
         },
@@ -706,7 +706,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Reliable Paving &amp; Construction</b> has been providing paving services to the borough of&nbsp;<b>Manhattan</b>&nbsp;for a very long time. With 20+ years of experience.&nbsp;<span style=\"font-size: 1.07rem;\">We want our <b>Manhattan, NY</b>&nbsp;<b>residential paving customers</b> and our <b>Manhattan, NY</b>&nbsp;<b>commercial business owners</b> to make the right choices and we provide the information and expertise to make that happen.&nbsp;</span><span style=\"font-size: 1.07rem;\">The management team at <b>Reliable Paving &amp; Construction</b> makes it a priority to personally supervise every aspect of all residential paving, commercial paving and maintenance projects. We know that the only measure of our success is the satisfaction of our customers.&nbsp;</span></p><p><br></p><p>&nbsp;We are known for our reliable, attentive customer service. Every project is personally overseen by the owner himself who has over 20+ years of paving and masonry experience and thousands of satisfied customers throughout <b>Manhattan New York, New Jersey and surrounding areas.&nbsp;</b></p>",
+          "text": "<p><b>Premier Asphalt &amp; Paving</b> has been providing paving services to the borough of&nbsp;<b>Manhattan</b>&nbsp;for a very long time. With 20+ years of experience.&nbsp;<span style=\"font-size: 1.07rem;\">We want our <b>Manhattan, NY</b>&nbsp;<b>residential paving customers</b> and our <b>Manhattan, NY</b>&nbsp;<b>commercial business owners</b> to make the right choices and we provide the information and expertise to make that happen.&nbsp;</span><span style=\"font-size: 1.07rem;\">The management team at <b>Premier Asphalt &amp; Paving</b> makes it a priority to personally supervise every aspect of all residential paving, commercial paving and maintenance projects. We know that the only measure of our success is the satisfaction of our customers.&nbsp;</span></p><p><br></p><p>&nbsp;We are known for our reliable, attentive customer service. Every project is personally overseen by the owner himself who has over 20+ years of paving and masonry experience and thousands of satisfied customers throughout <b>Manhattan New York, New Jersey and surrounding areas.&nbsp;</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -724,7 +724,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><b>Reliable Paving</b>&nbsp;<b>&amp; Construction</b> is a family owned and operated supervised company that is licensed, bonded and insured by the state of New Jersey. Our friendly and professional staff are here to answer any questions you may have about our company or our asphalt paving services. Whatever your asphalt paving needs are, w<span style=\"font-size: 1.09rem; line-height: 1.5;\">e are happy to provide paving evaluations and free quotations upon request. <br><br>Call today at&nbsp;<b>(973) 470-0252 </b>or fill out our <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">easy online form</a> to schedule a free <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">no-obligation estimate</a>.</span></blockquote>"
+          "text": "<blockquote><b>Reliable Paving</b>&nbsp;<b>&amp; Construction</b> is a family owned and operated supervised company that is licensed, bonded and insured by the state of New Jersey. Our friendly and professional staff are here to answer any questions you may have about our company or our asphalt paving services. Whatever your asphalt paving needs are, w<span style=\"font-size: 1.09rem; line-height: 1.5;\">e are happy to provide paving evaluations and free quotations upon request. <br><br>Call today at&nbsp;<b>(973) 224 6294 </b>or fill out our <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">easy online form</a> to schedule a free <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">no-obligation estimate</a>.</span></blockquote>"
         },
         {
           "_styles": {
@@ -757,7 +757,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "<br>RELIABLE PAVING &amp; CONSTRUCTION<br>Residential Paving for New Jersey &amp; New York",
+          "title": "<br>Premier Asphalt &amp; Paving<br>Residential Paving for New Jersey &amp; New York",
           "text": "<p>RESIDENTIAL, COMMERCIAL &amp; INDUSTRIAL&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\" data-toolbar=\"-mbrBtnMove\">SCHEDULE YOUR FREE QUOTE</a>",
           "_tags": [
@@ -859,7 +859,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<b>LICENSED, BONDED &amp; INSURED</b><br>Family Owned &amp; Operated<br>20+ Years Experience<br><br>\n<strong>Contacts</strong><br>Email: Reliablecnj@gmail.com<br>Tel: (973) 470-0252<br>",
+          "text1": "<b>LICENSED, BONDED &amp; INSURED</b><br>Family Owned &amp; Operated<br>20+ Years Experience<br><br>\n<strong>Contacts</strong><br>Email: Reliablecnj@gmail.com<br>Tel: (973) 224 6294<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Our Main Service Areas</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\">Bergen County</a></li><li><a href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\">Essex County</a></li><li><a href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\">Morris County</a></li><li><a href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\">Passaic County</a></li><li><a href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\">Union County</a></li><li><a href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\">The 5 Boroughs of New York</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -921,7 +921,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) All Rights Reserved. Reliable Paving &amp; Construction.&nbsp;",
+          "text": "Copyright (c) All Rights Reserved. Premier Asphalt &amp; Paving.&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -979,7 +979,7 @@
     "brooklyn-ny-paving-contractor-construction-company.html": {
       "settings": {
         "title": "Brooklyn NY Paving Company : Paving and Construction Contractor ",
-        "meta_descr": "Brooklyn, NY Paving and Construction Contractor - asphalt paving company, belgium block, concrete, brick pavers and general construction in the borough of Brooklyn and surrounding areas. Reliable Construction of New York. Driveway Paving : Sealcoating : parking lots and more. ",
+        "meta_descr": "Brooklyn, NY Paving and Construction Contractor - asphalt paving company, belgium block, concrete, brick pavers and general construction in the borough of Brooklyn and surrounding areas. Premier Asphalt & Paving of New York. Driveway Paving : Sealcoating : parking lots and more. ",
         "header_custom": "<meta name=\"googlebot\" content=\"noodp\">\n<meta name=\"keywords\" content=“brooklyn ny paving contractor, brooklyn paving company, brooklyn, commercial paving, residential paving, asphalt paving, ny“ />\n<meta name=\"robots\" content=\"index, follow\">\n<!-- brooklyn, paving, contractor -->",
         "footer_custom": "",
         "html_before": "",
@@ -1067,15 +1067,15 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/paving_gallery.html\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-4700252\">CALL NOW 973-470-0252</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/paving_gallery.html\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-2246294\">CALL NOW 973-224-6294</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-construction-white-sm-1-299x90.png",
               "height": 128,
-              "alt": "Reliable Paving and Construction  Morris County NJ",
+              "alt": "PREMIER ASPHALT AND PAVING  Morris County NJ",
               "link": "https://reliablecnj.com",
-              "title": "Reliable Paving and Construction  Morris County NJ"
+              "title": "PREMIER ASPHALT AND PAVING  Morris County NJ"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1121,7 +1121,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "Reliable Paving &amp; Construction",
+          "title": "Premier Asphalt &amp; Paving",
           "text": "<p><b>BROOKLYN NY PAVING CONTRACTOR</b><br><b>Serving Northern / Central New Jersey / 5 Boroughs of New York</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -1215,7 +1215,7 @@
               "active": true
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Reliable Paving &amp; Construction</span>",
+          "title": "<span style=\"font-weight: normal;\">Premier Asphalt &amp; Paving</span>",
           "subtitle": "<b>Serving Northern and Central New Jersey and the 5 Boroughs of New York</b>",
           "title1": "Premium Asphalt Paving &amp; Construction",
           "subtitle1": "<b style=\"font-style: normal;\">Brooklyn NY, Paving Contractor</b>",
@@ -1632,7 +1632,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-4700252\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973) 470-0252</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-2246294\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973) 224 6294</a>",
           "title": "Hello Brooklyn New York!<br>Call Now or Request Your <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">Free Estimate</a>&nbsp;here!",
           "text": "Mobile users! Click our easy DIAL NOW button to call now!"
         },
@@ -1642,7 +1642,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Reliable Paving &amp; Construction</b> has been providing paving services to the borough of&nbsp;<b>Brooklyn, New York</b>&nbsp;for a very long time. With 20+ years of experience.&nbsp;<span style=\"font-size: 1.07rem;\">We want our <b>Brooklyn</b>&nbsp;<b>residential paving customers</b> and our <b>Brooklyn</b>&nbsp;<b>commercial business owners</b> to make the right choices and we provide the information and expertise to make that happen.&nbsp;</span><span style=\"font-size: 1.07rem;\">The management team at <b>Reliable Paving &amp; Construction</b> makes it a priority to personally supervise every aspect of all residential paving, commercial paving and maintenance projects. We know that the only measure of our success is the satisfaction of our customers.&nbsp;</span></p><p><br></p><p>&nbsp;We are known for our reliable, attentive customer service. Every project is personally overseen by the owner himself who has over 20+ years of paving and masonry experience and thousands of satisfied customers throughout <b>Brooklyn New York, NJ and surrounding areas.&nbsp;</b></p>",
+          "text": "<p><b>Premier Asphalt &amp; Paving</b> has been providing paving services to the borough of&nbsp;<b>Brooklyn, New York</b>&nbsp;for a very long time. With 20+ years of experience.&nbsp;<span style=\"font-size: 1.07rem;\">We want our <b>Brooklyn</b>&nbsp;<b>residential paving customers</b> and our <b>Brooklyn</b>&nbsp;<b>commercial business owners</b> to make the right choices and we provide the information and expertise to make that happen.&nbsp;</span><span style=\"font-size: 1.07rem;\">The management team at <b>Premier Asphalt &amp; Paving</b> makes it a priority to personally supervise every aspect of all residential paving, commercial paving and maintenance projects. We know that the only measure of our success is the satisfaction of our customers.&nbsp;</span></p><p><br></p><p>&nbsp;We are known for our reliable, attentive customer service. Every project is personally overseen by the owner himself who has over 20+ years of paving and masonry experience and thousands of satisfied customers throughout <b>Brooklyn New York, NJ and surrounding areas.&nbsp;</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -1660,7 +1660,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><b>Reliable Paving</b>&nbsp;<b>&amp; Construction</b> is a family owned and operated supervised company that is licensed, bonded and insured by the state of New Jersey. Our friendly and professional staff are here to answer any questions you may have about our company or our asphalt paving services. Whatever your asphalt paving needs are, w<span style=\"font-size: 1.09rem; line-height: 1.5;\">e are happy to provide paving evaluations and free quotations upon request. <br><br>Call today at&nbsp;<b>(973) 470-0252 </b>or fill out our <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">easy online form</a> to schedule a free <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">no-obligation estimate</a>.</span></blockquote>"
+          "text": "<blockquote><b>Reliable Paving</b>&nbsp;<b>&amp; Construction</b> is a family owned and operated supervised company that is licensed, bonded and insured by the state of New Jersey. Our friendly and professional staff are here to answer any questions you may have about our company or our asphalt paving services. Whatever your asphalt paving needs are, w<span style=\"font-size: 1.09rem; line-height: 1.5;\">e are happy to provide paving evaluations and free quotations upon request. <br><br>Call today at&nbsp;<b>(973) 224 6294 </b>or fill out our <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">easy online form</a> to schedule a free <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">no-obligation estimate</a>.</span></blockquote>"
         },
         {
           "_styles": {
@@ -1693,7 +1693,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "<br>RELIABLE PAVING &amp; CONSTRUCTION<br>Residential Paving for New Jersey &amp; New York",
+          "title": "<br>Premier Asphalt &amp; Paving<br>Residential Paving for New Jersey &amp; New York",
           "text": "<p>RESIDENTIAL, COMMERCIAL &amp; INDUSTRIAL&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\" data-toolbar=\"-mbrBtnMove\">SCHEDULE YOUR FREE QUOTE</a>",
           "_tags": [
@@ -1795,7 +1795,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<b>LICENSED, BONDED &amp; INSURED</b><br>Family Owned &amp; Operated<br>20+ Years Experience<br><br>\n<strong>Contacts</strong><br>Email: Reliablecnj@gmail.com<br>Tel: (973) 470-0252<br>",
+          "text1": "<b>LICENSED, BONDED &amp; INSURED</b><br>Family Owned &amp; Operated<br>20+ Years Experience<br><br>\n<strong>Contacts</strong><br>Email: Reliablecnj@gmail.com<br>Tel: (973) 224 6294<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Our Main Service Areas</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\">Bergen County</a></li><li><a href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\">Essex County</a></li><li><a href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\">Morris County</a></li><li><a href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\">Passaic County</a></li><li><a href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\">Union County</a></li><li><a href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\">The 5 Boroughs of New York</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1857,7 +1857,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) All Rights Reserved. Reliable Paving &amp; Construction.&nbsp;",
+          "text": "Copyright (c) All Rights Reserved. Premier Asphalt &amp; Paving.&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -1915,7 +1915,7 @@
     "queens-ny-paving-contractor-construction-company.html": {
       "settings": {
         "title": "Queens NY Paving Company : Paving and Construction Contractor",
-        "meta_descr": "Queens NY Paving and Construction Contractor - asphalt paving company, belgium block, concrete, brick pavers and general construction in the borough of Queens NY and surrounding areas. Reliable Construction of New York. Driveway Paving : Sealcoating : parking lots and more. ",
+        "meta_descr": "Queens NY Paving and Construction Contractor - asphalt paving company, belgium block, concrete, brick pavers and general construction in the borough of Queens NY and surrounding areas. Premier Asphalt & Paving of New York. Driveway Paving : Sealcoating : parking lots and more. ",
         "header_custom": "<meta name=\"googlebot\" content=\"noodp\">\n<meta name=\"keywords\" content=“queens ny paving contractor, queens paving company, queens, commercial paving, residential paving, asphalt paving, ny“ />\n<meta name=\"robots\" content=\"index, follow\">\n<!-- queens, paving, contractor -->",
         "footer_custom": "",
         "html_before": "",
@@ -2003,15 +2003,15 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/paving_gallery.html\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-4700252\">CALL NOW 973-470-0252</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/paving_gallery.html\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-2246294\">CALL NOW 973-224-6294</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-construction-white-sm-1-299x90.png",
               "height": 128,
-              "alt": "Reliable Paving and Construction  Morris County NJ",
+              "alt": "PREMIER ASPHALT AND PAVING  Morris County NJ",
               "link": "https://reliablecnj.com",
-              "title": "Reliable Paving and Construction  Morris County NJ"
+              "title": "PREMIER ASPHALT AND PAVING  Morris County NJ"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2057,7 +2057,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "Reliable Paving &amp; Construction",
+          "title": "Premier Asphalt &amp; Paving",
           "text": "<p><b>QUEENS, NY PAVING CONTRACTOR</b><br><b>Serving Northern / Central New Jersey / 5 Boroughs of New York</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -2151,7 +2151,7 @@
               "active": true
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Reliable Paving &amp; Construction</span>",
+          "title": "<span style=\"font-weight: normal;\">Premier Asphalt &amp; Paving</span>",
           "subtitle": "<b>Serving Northern and Central New Jersey and the 5 Boroughs of New York</b>",
           "title1": "Premium Asphalt Paving &amp; Construction",
           "subtitle1": "<b style=\"font-style: normal;\">Queens, NY Paving Contractor</b>",
@@ -2568,7 +2568,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-4700252\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973) 470-0252</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-2246294\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973) 224 6294</a>",
           "title": "Hello Queens!<br>Call Now or Request Your <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">Free Estimate</a>&nbsp;here!",
           "text": "Mobile users! Click our easy DIAL NOW button to call now!"
         },
@@ -2578,7 +2578,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Reliable Paving &amp; Construction</b> has been providing paving services to the borough of&nbsp;<b>Queens, NY</b>&nbsp;for a very long time. With 20+ years of experience.&nbsp;<span style=\"font-size: 1.07rem;\">We want our <b>Queens</b>&nbsp;<b>residential paving customers</b> and our <b>Queens</b>&nbsp;<b>commercial business owners</b> to make the right choices and we provide the information and expertise to make that happen.&nbsp;</span><span style=\"font-size: 1.07rem;\">The management team at <b>Reliable Paving &amp; Construction</b> makes it a priority to personally supervise every aspect of all residential paving, commercial paving and maintenance projects. We know that the only measure of our success is the satisfaction of our customers.&nbsp;</span></p><p><br></p><p>&nbsp;We are known for our reliable, attentive customer service. Every project is personally overseen by the owner himself who has over 20+ years of paving and masonry experience and thousands of satisfied customers throughout <b>Queens&nbsp;New York, New Jersey and surrounding areas.&nbsp;</b></p>",
+          "text": "<p><b>Premier Asphalt &amp; Paving</b> has been providing paving services to the borough of&nbsp;<b>Queens, NY</b>&nbsp;for a very long time. With 20+ years of experience.&nbsp;<span style=\"font-size: 1.07rem;\">We want our <b>Queens</b>&nbsp;<b>residential paving customers</b> and our <b>Queens</b>&nbsp;<b>commercial business owners</b> to make the right choices and we provide the information and expertise to make that happen.&nbsp;</span><span style=\"font-size: 1.07rem;\">The management team at <b>Premier Asphalt &amp; Paving</b> makes it a priority to personally supervise every aspect of all residential paving, commercial paving and maintenance projects. We know that the only measure of our success is the satisfaction of our customers.&nbsp;</span></p><p><br></p><p>&nbsp;We are known for our reliable, attentive customer service. Every project is personally overseen by the owner himself who has over 20+ years of paving and masonry experience and thousands of satisfied customers throughout <b>Queens&nbsp;New York, New Jersey and surrounding areas.&nbsp;</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -2596,7 +2596,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><b>Reliable Paving</b>&nbsp;<b>&amp; Construction</b> is a family owned and operated supervised company that is licensed, bonded and insured by the state of New Jersey. Our friendly and professional staff are here to answer any questions you may have about our company or our asphalt paving services. Whatever your asphalt paving needs are, w<span style=\"font-size: 1.09rem; line-height: 1.5;\">e are happy to provide paving evaluations and free quotations upon request. <br><br>Call today at&nbsp;<b>(973) 470-0252 </b>or fill out our <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">easy online form</a> to schedule a free <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">no-obligation estimate</a>.</span></blockquote>"
+          "text": "<blockquote><b>Reliable Paving</b>&nbsp;<b>&amp; Construction</b> is a family owned and operated supervised company that is licensed, bonded and insured by the state of New Jersey. Our friendly and professional staff are here to answer any questions you may have about our company or our asphalt paving services. Whatever your asphalt paving needs are, w<span style=\"font-size: 1.09rem; line-height: 1.5;\">e are happy to provide paving evaluations and free quotations upon request. <br><br>Call today at&nbsp;<b>(973) 224 6294 </b>or fill out our <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">easy online form</a> to schedule a free <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">no-obligation estimate</a>.</span></blockquote>"
         },
         {
           "_styles": {
@@ -2629,7 +2629,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "<br>RELIABLE PAVING &amp; CONSTRUCTION<br>Residential Paving for New Jersey &amp; New York",
+          "title": "<br>Premier Asphalt &amp; Paving<br>Residential Paving for New Jersey &amp; New York",
           "text": "<p>RESIDENTIAL, COMMERCIAL &amp; INDUSTRIAL&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\" data-toolbar=\"-mbrBtnMove\">SCHEDULE YOUR FREE QUOTE</a>",
           "_tags": [
@@ -2731,7 +2731,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<b>LICENSED, BONDED &amp; INSURED</b><br>Family Owned &amp; Operated<br>20+ Years Experience<br><br>\n<strong>Contacts</strong><br>Email: Reliablecnj@gmail.com<br>Tel: (973) 470-0252<br>",
+          "text1": "<b>LICENSED, BONDED &amp; INSURED</b><br>Family Owned &amp; Operated<br>20+ Years Experience<br><br>\n<strong>Contacts</strong><br>Email: Reliablecnj@gmail.com<br>Tel: (973) 224 6294<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Our Main Service Areas</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\">Bergen County</a></li><li><a href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\">Essex County</a></li><li><a href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\">Morris County</a></li><li><a href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\">Passaic County</a></li><li><a href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\">Union County</a></li><li><a href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\">The 5 Boroughs of New York</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -2793,7 +2793,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) All Rights Reserved. Reliable Paving &amp; Construction.&nbsp;",
+          "text": "Copyright (c) All Rights Reserved. Premier Asphalt &amp; Paving.&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -2851,7 +2851,7 @@
     "the-bronx-ny-paving-contractor-construction-company.html": {
       "settings": {
         "title": "The Bronx NY Paving Company : Paving and Construction Contractor",
-        "meta_descr": "The Bronx NY Paving and Construction Contractor - asphalt paving company, belgium block, concrete, brick pavers and general construction in the Bronx and surrounding areas. Reliable Construction of New York. Driveway Paving : Sealcoating : parking lots and more. ",
+        "meta_descr": "The Bronx NY Paving and Construction Contractor - asphalt paving company, belgium block, concrete, brick pavers and general construction in the Bronx and surrounding areas. Premier Asphalt & Paving of New York. Driveway Paving : Sealcoating : parking lots and more. ",
         "header_custom": "<meta name=\"googlebot\" content=\"noodp\">\n<meta name=\"keywords\" content=“the bronx ny paving contractor, the bronx paving company, queens, commercial paving, residential paving, asphalt paving, ny“ />\n<meta name=\"robots\" content=\"index, follow\">\n<!-- the bronx, paving, contractor -->",
         "footer_custom": "",
         "html_before": "",
@@ -2939,15 +2939,15 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/paving_gallery.html\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-4700252\">CALL NOW 973-470-0252</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/paving_gallery.html\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-2246294\">CALL NOW 973-224-6294</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-construction-white-sm-1-299x90.png",
               "height": 128,
-              "alt": "Reliable Paving and Construction  Morris County NJ",
+              "alt": "PREMIER ASPHALT AND PAVING  Morris County NJ",
               "link": "https://reliablecnj.com",
-              "title": "Reliable Paving and Construction  Morris County NJ"
+              "title": "PREMIER ASPHALT AND PAVING  Morris County NJ"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2993,7 +2993,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "Reliable Paving &amp; Construction",
+          "title": "Premier Asphalt &amp; Paving",
           "text": "<p><b>THE BRONX, NY PAVING CONTRACTOR</b><br><b>Serving Northern / Central New Jersey / 5 Boroughs of New York</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -3087,7 +3087,7 @@
               "active": true
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Reliable Paving &amp; Construction</span>",
+          "title": "<span style=\"font-weight: normal;\">Premier Asphalt &amp; Paving</span>",
           "subtitle": "<b>Serving Northern and Central New Jersey and the 5 Boroughs of New York</b>",
           "title1": "Premium Asphalt Paving &amp; Construction",
           "subtitle1": "<b style=\"font-style: normal;\">The Bronx, NY Contractor</b>",
@@ -3504,7 +3504,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-4700252\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973) 470-0252</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-2246294\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973) 224 6294</a>",
           "title": "Hello Bronx, NY!<br>Call Now or Request Your <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">Free Estimate</a>&nbsp;here!",
           "text": "Mobile users! Click our easy DIAL NOW button to call now!"
         },
@@ -3514,7 +3514,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Reliable Paving &amp; Construction</b> has been providing paving services to the<b>&nbsp;Bronx</b>&nbsp;for a very long time. With 20+ years of experience.&nbsp;<span style=\"font-size: 1.07rem;\">We want our <b>Bronx</b>&nbsp;<b>residential paving customers</b> and our <b>Bronx</b>&nbsp;<b>commercial business owners</b> to make the right choices and we provide the information and expertise to make that happen.&nbsp;</span><span style=\"font-size: 1.07rem;\">The management team at <b>Reliable Paving &amp; Construction</b> makes it a priority to personally supervise every aspect of all residential paving, commercial paving and maintenance projects. We know that the only measure of our success is the satisfaction of our customers.&nbsp;</span></p><p><br></p><p>&nbsp;We are known for our reliable, attentive customer service. Every project is personally overseen by the owner himself who has over 20+ years of paving and masonry experience and thousands of satisfied customers throughout&nbsp;<b>The Bronx New York, New Jersey and surrounding areas.&nbsp;</b></p>",
+          "text": "<p><b>Premier Asphalt &amp; Paving</b> has been providing paving services to the<b>&nbsp;Bronx</b>&nbsp;for a very long time. With 20+ years of experience.&nbsp;<span style=\"font-size: 1.07rem;\">We want our <b>Bronx</b>&nbsp;<b>residential paving customers</b> and our <b>Bronx</b>&nbsp;<b>commercial business owners</b> to make the right choices and we provide the information and expertise to make that happen.&nbsp;</span><span style=\"font-size: 1.07rem;\">The management team at <b>Premier Asphalt &amp; Paving</b> makes it a priority to personally supervise every aspect of all residential paving, commercial paving and maintenance projects. We know that the only measure of our success is the satisfaction of our customers.&nbsp;</span></p><p><br></p><p>&nbsp;We are known for our reliable, attentive customer service. Every project is personally overseen by the owner himself who has over 20+ years of paving and masonry experience and thousands of satisfied customers throughout&nbsp;<b>The Bronx New York, New Jersey and surrounding areas.&nbsp;</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -3532,7 +3532,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><b>Reliable Paving</b>&nbsp;<b>&amp; Construction</b> is a family owned and operated supervised company that is licensed, bonded and insured by the state of New Jersey. Our friendly and professional staff are here to answer any questions you may have about our company or our asphalt paving services. Whatever your asphalt paving needs are, w<span style=\"font-size: 1.09rem; line-height: 1.5;\">e are happy to provide paving evaluations and free quotations upon request. <br><br>Call today at&nbsp;<b>(973) 470-0252 </b>or fill out our <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">easy online form</a> to schedule a free <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">no-obligation estimate</a>.</span></blockquote>"
+          "text": "<blockquote><b>Reliable Paving</b>&nbsp;<b>&amp; Construction</b> is a family owned and operated supervised company that is licensed, bonded and insured by the state of New Jersey. Our friendly and professional staff are here to answer any questions you may have about our company or our asphalt paving services. Whatever your asphalt paving needs are, w<span style=\"font-size: 1.09rem; line-height: 1.5;\">e are happy to provide paving evaluations and free quotations upon request. <br><br>Call today at&nbsp;<b>(973) 224 6294 </b>or fill out our <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">easy online form</a> to schedule a free <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">no-obligation estimate</a>.</span></blockquote>"
         },
         {
           "_styles": {
@@ -3565,7 +3565,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "<br>RELIABLE PAVING &amp; CONSTRUCTION<br>Residential Paving for New Jersey &amp; New York",
+          "title": "<br>Premier Asphalt &amp; Paving<br>Residential Paving for New Jersey &amp; New York",
           "text": "<p>RESIDENTIAL, COMMERCIAL &amp; INDUSTRIAL&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\" data-toolbar=\"-mbrBtnMove\">SCHEDULE YOUR FREE QUOTE</a>",
           "_tags": [
@@ -3667,7 +3667,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<b>LICENSED, BONDED &amp; INSURED</b><br>Family Owned &amp; Operated<br>20+ Years Experience<br><br>\n<strong>Contacts</strong><br>Email: Reliablecnj@gmail.com<br>Tel: (973) 470-0252<br>",
+          "text1": "<b>LICENSED, BONDED &amp; INSURED</b><br>Family Owned &amp; Operated<br>20+ Years Experience<br><br>\n<strong>Contacts</strong><br>Email: Reliablecnj@gmail.com<br>Tel: (973) 224 6294<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Our Main Service Areas</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\">Bergen County</a></li><li><a href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\">Essex County</a></li><li><a href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\">Morris County</a></li><li><a href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\">Passaic County</a></li><li><a href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\">Union County</a></li><li><a href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\">The 5 Boroughs of New York</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -3729,7 +3729,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) All Rights Reserved. Reliable Paving &amp; Construction.&nbsp;",
+          "text": "Copyright (c) All Rights Reserved. Premier Asphalt &amp; Paving.&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -3787,7 +3787,7 @@
     "staten-island-ny-paving-contractor-construction-company.html": {
       "settings": {
         "title": "Staten Island NY Paving Company : Paving and Construction Contractor ",
-        "meta_descr": "Staten Island Paving and Construction Contractor - asphalt paving company, belgium block, concrete, brick pavers and general construction in Staten Island and surrounding areas. Reliable Construction of New York. Driveway Paving : Sealcoating : parking lots and more. ",
+        "meta_descr": "Staten Island Paving and Construction Contractor - asphalt paving company, belgium block, concrete, brick pavers and general construction in Staten Island and surrounding areas. Premier Asphalt & Paving of New York. Driveway Paving : Sealcoating : parking lots and more. ",
         "header_custom": "<meta name=\"googlebot\" content=\"noodp\">\n<meta name=\"keywords\" content=“staten island ny paving contractor, staten island paving company, queens, commercial paving, residential paving, asphalt paving, ny“ />\n<meta name=\"robots\" content=\"index, follow\">\n<!-- staten island, paving, contractor -->",
         "footer_custom": "",
         "html_before": "",
@@ -3875,15 +3875,15 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/paving_gallery.html\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-4700252\">CALL NOW 973-470-0252</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/paving_gallery.html\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-2246294\">CALL NOW 973-224-6294</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-construction-white-sm-1-299x90.png",
               "height": 128,
-              "alt": "Reliable Paving and Construction  Morris County NJ",
+              "alt": "PREMIER ASPHALT AND PAVING  Morris County NJ",
               "link": "https://reliablecnj.com",
-              "title": "Reliable Paving and Construction  Morris County NJ"
+              "title": "PREMIER ASPHALT AND PAVING  Morris County NJ"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3929,7 +3929,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "Reliable Paving &amp; Construction",
+          "title": "Premier Asphalt &amp; Paving",
           "text": "<p><b>STATEN ISLAND, NY PAVING CONTRACTOR</b><br><b>Serving Northern / Central New Jersey / 5 Boroughs of New York</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -4023,7 +4023,7 @@
               "active": true
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Reliable Paving &amp; Construction</span>",
+          "title": "<span style=\"font-weight: normal;\">Premier Asphalt &amp; Paving</span>",
           "subtitle": "<b>Serving Northern and Central New Jersey and the 5 Boroughs of New York</b>",
           "title1": "Premium Asphalt Paving &amp; Construction",
           "subtitle1": "<b style=\"font-style: normal;\">Staten Island, NY Contractor</b>",
@@ -4440,7 +4440,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-4700252\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973) 470-0252</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-2246294\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973) 224 6294</a>",
           "title": "Hello Staten Island, NY!<br>Call Now or Request Your <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">Free Estimate</a>&nbsp;here!",
           "text": "Mobile users! Click our easy DIAL NOW button to call now!"
         },
@@ -4450,7 +4450,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Reliable Paving &amp; Construction</b> has been providing paving services to <b>Staten Island, NY</b>&nbsp;for a very long time. With 20+ years of experience.&nbsp;<span style=\"font-size: 1.07rem;\">We want our <b>Staten Island</b>&nbsp;<b>residential paving customers</b> and our <b>Staten Island</b>&nbsp;<b>commercial business owners</b> to make the right choices and we provide the information and expertise to make that happen.&nbsp;</span><span style=\"font-size: 1.07rem;\">The management team at <b>Reliable Paving &amp; Construction</b> makes it a priority to personally supervise every aspect of all residential paving, commercial paving and maintenance projects. We know that the only measure of our success is the satisfaction of our customers.&nbsp;</span></p><p><br></p><p>&nbsp;We are known for our reliable, attentive customer service. Every project is personally overseen by the owner himself who has over 20+ years of paving and masonry experience and thousands of satisfied customers throughout <b>Staten Island&nbsp;New York, New Jersey and surrounding areas.&nbsp;</b></p>",
+          "text": "<p><b>Premier Asphalt &amp; Paving</b> has been providing paving services to <b>Staten Island, NY</b>&nbsp;for a very long time. With 20+ years of experience.&nbsp;<span style=\"font-size: 1.07rem;\">We want our <b>Staten Island</b>&nbsp;<b>residential paving customers</b> and our <b>Staten Island</b>&nbsp;<b>commercial business owners</b> to make the right choices and we provide the information and expertise to make that happen.&nbsp;</span><span style=\"font-size: 1.07rem;\">The management team at <b>Premier Asphalt &amp; Paving</b> makes it a priority to personally supervise every aspect of all residential paving, commercial paving and maintenance projects. We know that the only measure of our success is the satisfaction of our customers.&nbsp;</span></p><p><br></p><p>&nbsp;We are known for our reliable, attentive customer service. Every project is personally overseen by the owner himself who has over 20+ years of paving and masonry experience and thousands of satisfied customers throughout <b>Staten Island&nbsp;New York, New Jersey and surrounding areas.&nbsp;</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -4468,7 +4468,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><b>Reliable Paving</b>&nbsp;<b>&amp; Construction</b> is a family owned and operated supervised company that is licensed, bonded and insured by the state of New Jersey. Our friendly and professional staff are here to answer any questions you may have about our company or our asphalt paving services. Whatever your asphalt paving needs are, w<span style=\"font-size: 1.09rem; line-height: 1.5;\">e are happy to provide paving evaluations and free quotations upon request. <br><br>Call today at&nbsp;<b>(973) 470-0252 </b>or fill out our <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">easy online form</a> to schedule a free <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">no-obligation estimate</a>.</span></blockquote>"
+          "text": "<blockquote><b>Reliable Paving</b>&nbsp;<b>&amp; Construction</b> is a family owned and operated supervised company that is licensed, bonded and insured by the state of New Jersey. Our friendly and professional staff are here to answer any questions you may have about our company or our asphalt paving services. Whatever your asphalt paving needs are, w<span style=\"font-size: 1.09rem; line-height: 1.5;\">e are happy to provide paving evaluations and free quotations upon request. <br><br>Call today at&nbsp;<b>(973) 224 6294 </b>or fill out our <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">easy online form</a> to schedule a free <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">no-obligation estimate</a>.</span></blockquote>"
         },
         {
           "_styles": {
@@ -4501,7 +4501,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "<br>RELIABLE PAVING &amp; CONSTRUCTION<br>Residential Paving for New Jersey &amp; New York",
+          "title": "<br>Premier Asphalt &amp; Paving<br>Residential Paving for New Jersey &amp; New York",
           "text": "<p>RESIDENTIAL, COMMERCIAL &amp; INDUSTRIAL&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\" data-toolbar=\"-mbrBtnMove\">SCHEDULE YOUR FREE QUOTE</a>",
           "_tags": [
@@ -4603,7 +4603,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<b>LICENSED, BONDED &amp; INSURED</b><br>Family Owned &amp; Operated<br>20+ Years Experience<br><br>\n<strong>Contacts</strong><br>Email: Reliablecnj@gmail.com<br>Tel: (973) 470-0252<br>",
+          "text1": "<b>LICENSED, BONDED &amp; INSURED</b><br>Family Owned &amp; Operated<br>20+ Years Experience<br><br>\n<strong>Contacts</strong><br>Email: Reliablecnj@gmail.com<br>Tel: (973) 224 6294<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Our Main Service Areas</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\">Bergen County</a></li><li><a href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\">Essex County</a></li><li><a href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\">Morris County</a></li><li><a href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\">Passaic County</a></li><li><a href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\">Union County</a></li><li><a href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\">The 5 Boroughs of New York</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -4665,7 +4665,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) All Rights Reserved. Reliable Paving &amp; Construction.&nbsp;",
+          "text": "Copyright (c) All Rights Reserved. Premier Asphalt &amp; Paving.&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -4724,7 +4724,7 @@
       "settings": {
         "main": true,
         "title": "New York Paving Company : Paving and Construction Contractor ",
-        "meta_descr": "New York Paving and Construction Contractor - asphalt paving company, belgium block, concrete, brick pavers and general construction in New York and surrounding areas. Reliable Construction of New York. Driveway Paving : Sealcoating : parking lots and more. ",
+        "meta_descr": "New York Paving and Construction Contractor - asphalt paving company, belgium block, concrete, brick pavers and general construction in New York and surrounding areas. Premier Asphalt & Paving of New York. Driveway Paving : Sealcoating : parking lots and more. ",
         "header_custom": "<meta name=\"googlebot\" content=\"noodp\">\n<meta name=\"keywords\" content=“new york paving contractor, manhattan, brooklyn, queens, bronx, staten island, paving company, commercial paving, residential paving, asphalt paving, nj“ />\n<meta name=\"robots\" content=\"index, follow\">\n<!-- new york, paving, contractor -->",
         "footer_custom": "",
         "html_before": ""
@@ -4811,15 +4811,15 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/paving_gallery.html\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-4700252\">CALL NOW 973-470-0252</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/commercial-paving-and-construction-driveways-pathways-masonry.html\">Commercial Paving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.reliablecnj.com/residential-paving-construction-driveways-pathways-masonry.html\">Residential Paving</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reliablecnj.com/paving_gallery.html\">GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\">FREE &nbsp;ESTIMATE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+1-973-2246294\">CALL NOW 973-224-6294</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-construction-white-sm-1-299x90.png",
               "height": 128,
-              "alt": "Reliable Paving and Construction  Morris County NJ",
+              "alt": "PREMIER ASPHALT AND PAVING  Morris County NJ",
               "link": "https://reliablecnj.com",
-              "title": "Reliable Paving and Construction  Morris County NJ"
+              "title": "PREMIER ASPHALT AND PAVING  Morris County NJ"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -4865,7 +4865,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "Reliable Paving &amp; Construction",
+          "title": "Premier Asphalt &amp; Paving",
           "text": "<p><b>NEW YORK PAVING CONTRACTOR</b><br><b>Serving Northern / Central New Jersey / 5 Boroughs of New York</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -4959,7 +4959,7 @@
               "active": true
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Reliable Paving &amp; Construction</span>",
+          "title": "<span style=\"font-weight: normal;\">Premier Asphalt &amp; Paving</span>",
           "subtitle": "<b>Serving Northern and Central New Jersey and the 5 Boroughs of New York</b>",
           "title1": "Premium Asphalt Paving &amp; Construction",
           "subtitle1": "<b style=\"font-style: normal;\">New York, Paving Contractor</b>",
@@ -5376,7 +5376,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-4700252\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973) 470-0252</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1-973-2246294\" data-toolbar=\"-mbrBtnMove\">DIAL NOW (973) 224 6294</a>",
           "title": "Hello New York!<br>Call Now or Request Your <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">Free Estimate</a>&nbsp;here!",
           "text": "Mobile users! Click our easy DIAL NOW button to call now!"
         },
@@ -5386,7 +5386,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Reliable Paving &amp; Construction</b> has been providing paving services to <b>the New York area</b>&nbsp;for a very long time. With 20+ years of experience.&nbsp;<span style=\"font-size: 1.07rem;\">We want our <b>New York</b>&nbsp;<b>residential paving customers</b> and our <b>New York</b>&nbsp;<b>commercial business owners</b> to make the right choices and we provide the information and expertise to make that happen.&nbsp;</span><span style=\"font-size: 1.07rem;\">The management team at <b>Reliable Paving &amp; Construction</b> makes it a priority to personally supervise every aspect of all residential paving, commercial paving and maintenance projects. We know that the only measure of our success is the satisfaction of our customers.&nbsp;</span></p><p><br></p><p>&nbsp;We are known for our reliable, attentive customer service. Every project is personally overseen by the owner himself who has over 20+ years of paving and masonry experience and thousands of satisfied customers throughout <b>the 5 Boroughs of New York, NJ and surrounding areas.&nbsp;</b></p>",
+          "text": "<p><b>Premier Asphalt &amp; Paving</b> has been providing paving services to <b>the New York area</b>&nbsp;for a very long time. With 20+ years of experience.&nbsp;<span style=\"font-size: 1.07rem;\">We want our <b>New York</b>&nbsp;<b>residential paving customers</b> and our <b>New York</b>&nbsp;<b>commercial business owners</b> to make the right choices and we provide the information and expertise to make that happen.&nbsp;</span><span style=\"font-size: 1.07rem;\">The management team at <b>Premier Asphalt &amp; Paving</b> makes it a priority to personally supervise every aspect of all residential paving, commercial paving and maintenance projects. We know that the only measure of our success is the satisfaction of our customers.&nbsp;</span></p><p><br></p><p>&nbsp;We are known for our reliable, attentive customer service. Every project is personally overseen by the owner himself who has over 20+ years of paving and masonry experience and thousands of satisfied customers throughout <b>the 5 Boroughs of New York, NJ and surrounding areas.&nbsp;</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -5404,7 +5404,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><b>Reliable Paving</b>&nbsp;<b>&amp; Construction</b> is a family owned and operated supervised company that is licensed, bonded and insured by the state of New Jersey. Our friendly and professional staff are here to answer any questions you may have about our company or our asphalt paving services. Whatever your asphalt paving needs are, w<span style=\"font-size: 1.09rem; line-height: 1.5;\">e are happy to provide paving evaluations and free quotations upon request. <br><br>Call today at&nbsp;<b>(973) 470-0252 </b>or fill out our <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">easy online form</a> to schedule a free <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">no-obligation estimate</a>.</span></blockquote>"
+          "text": "<blockquote><b>Reliable Paving</b>&nbsp;<b>&amp; Construction</b> is a family owned and operated supervised company that is licensed, bonded and insured by the state of New Jersey. Our friendly and professional staff are here to answer any questions you may have about our company or our asphalt paving services. Whatever your asphalt paving needs are, w<span style=\"font-size: 1.09rem; line-height: 1.5;\">e are happy to provide paving evaluations and free quotations upon request. <br><br>Call today at&nbsp;<b>(973) 224 6294 </b>or fill out our <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">easy online form</a> to schedule a free <a href=\"https://reliablecnj.com/free-paving-estimate-schedule-appointment.html\">no-obligation estimate</a>.</span></blockquote>"
         },
         {
           "_styles": {
@@ -5437,7 +5437,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "<br>RELIABLE PAVING &amp; CONSTRUCTION<br>Residential Paving for New Jersey &amp; New York",
+          "title": "<br>Premier Asphalt &amp; Paving<br>Residential Paving for New Jersey &amp; New York",
           "text": "<p>RESIDENTIAL, COMMERCIAL &amp; INDUSTRIAL&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.reliablecnj.com/free-paving-estimate-schedule-appointment.html\" data-toolbar=\"-mbrBtnMove\">SCHEDULE YOUR FREE QUOTE</a>",
           "_tags": [
@@ -5539,7 +5539,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<b>LICENSED, BONDED &amp; INSURED</b><br>Family Owned &amp; Operated<br>20+ Years Experience<br><br>\n<strong>Contacts</strong><br>Email: Reliablecnj@gmail.com<br>Tel: (973) 470-0252<br>",
+          "text1": "<b>LICENSED, BONDED &amp; INSURED</b><br>Family Owned &amp; Operated<br>20+ Years Experience<br><br>\n<strong>Contacts</strong><br>Email: Reliablecnj@gmail.com<br>Tel: (973) 224 6294<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Our Main Service Areas</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://reliablecnj.com/bergen-county/bergen-county-paving-contractor.html\">Bergen County</a></li><li><a href=\"https://reliablecnj.com/essex-county/essex-county-paving-contractor.html\">Essex County</a></li><li><a href=\"https://reliablecnj.com/morris-county/morris-county-paving-contractor.html\">Morris County</a></li><li><a href=\"https://reliablecnj.com/passaic-county/passaic-county-paving-contractor.html\">Passaic County</a></li><li><a href=\"https://reliablecnj.com/union-county/union-county-paving-contractor.html\">Union County</a></li><li><a href=\"https://reliablecnj.com/new-york-boroughs/new-york-boroughs-paving-contractor.html\">The 5 Boroughs of New York</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -5642,7 +5642,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) All Rights Reserved. Reliable Paving &amp; Construction.&nbsp;",
+          "text": "Copyright (c) All Rights Reserved. Premier Asphalt &amp; Paving.&nbsp;",
           "_tags": [
             "Theme"
           ],
