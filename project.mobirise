@@ -45,7 +45,7 @@
       "settings": {
         "main": true,
         "title": "Paving and construction company NJ : ASphgalt Contractor : Driveways : Parking Lots : Pavers",
-        "meta_descr": "Paving and construction company : Premier Asphalt & Paving of New Jersey. Driveway Paving : Sealcoating : parking lots and more. New Jersey and New York : A full service Paving Contractor",
+        "meta_descr": "Paving and construction company : Premier Asphalt & Paving of New Jersey. Driveway Paving : Sealcoating : parking lots and more. New Jersey: A full service Paving Contractor",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -183,7 +183,7 @@
                 "linkUrl": "http://google.com",
                 "image": "@PROJECT_PATH@/assets/images/parking-lot-4op-1600x746.jpg",
                 "title": "Premier Asphalt & Paving ",
-                "text": "Northern New Jersey and the 5 Boroughs of New York",
+                "text": "Northern New Jersey",
                 "tooltip": "@PROJECT_PATH@/assets/images/parking-lot-4op-85x39.png"
               },
               {
@@ -475,7 +475,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Premier Asphalt &amp; Paving</span>",
-          "subtitle": "Serving Northern and Central New Jersey and the 5 Boroughs of New York<br>",
+          "subtitle": "Serving Northern and Central New Jersey<br>",
           "title1": "Premium Asphalt Paving &amp; Construction",
           "subtitle1": "<span style=\"font-style: normal;\">New Jersey Paving Contractor</span>",
           "caption1": "<b>2o Years + Experience</b> in New Jersey and New York. Our in-house paving experts have experience in handling large commercial projects. Our asphalt and construction team can design and build customized asphalt solutions for just about any shape and size.",
@@ -986,7 +986,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "<br>Premier Asphalt &amp; Paving<br>Residential Paving for New Jersey &amp; New York",
+          "title": "<br>Premier Asphalt &amp; Paving<br>Residential Paving for New Jersey",
           "text": "<p>RESIDENTIAL, COMMERCIAL &amp; INDUSTRIAL&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"free-paving-estimate-schedule-appointment.html\" data-toolbar=\"-mbrBtnMove\">SCHEDULE YOUR FREE QUOTE</a>",
           "_tags": [
@@ -1758,7 +1758,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "<br>Premier Asphalt &amp; Paving<br>Residential Paving for New Jersey &amp; New York",
+          "title": "<br>Premier Asphalt &amp; Paving<br>Residential Paving for New Jersey",
           "text": "<p>RESIDENTIAL, COMMERCIAL &amp; INDUSTRIAL&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"free-paving-estimate-schedule-appointment.html\" data-toolbar=\"-mbrBtnMove\">SCHEDULE YOUR FREE QUOTE</a>",
           "_tags": [
@@ -1811,7 +1811,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Serving North and Central New Jersey and the 5 Boroughs of New York",
+          "title": "Serving North and Central New Jersey",
           "meta": "<b>Contact Reliable Paving for a free, on-site estimate for your next project.</b>",
           "_tags": [
             "Theme"
@@ -1915,7 +1915,7 @@
             }
           },
           "title": "Here are some of the key services that we are proud to provide",
-          "subtitle": "Residential Paving and Construction for the New Jersey &amp; New York Homeowner",
+          "subtitle": "Residential Paving and Construction for the New Jersey &amp;  Homeowner",
           "title1": "Paths &amp; Walkways<br>Pavers, Brick, Stone &amp; Concrete",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
@@ -3210,7 +3210,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.4"
           },
-          "title": "<br>Premier Asphalt &amp; Paving<br>Commercial Paving for New Jersey &amp; New York",
+          "title": "<br>Premier Asphalt &amp; Paving<br>Commercial Paving for New Jersey",
           "text": "<p>RESIDENTIAL, COMMERCIAL &amp; INDUSTRIAL&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"free-paving-estimate-schedule-appointment.html\" data-toolbar=\"-mbrBtnMove\">SCHEDULE YOUR FREE QUOTE</a>",
           "_tags": [
@@ -3263,7 +3263,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Serving North and Central New Jersey and the 5 Boroughs of New York",
+          "title": "Serving North and Central New Jersey",
           "meta": "<b>Contact Reliable Paving for a free, on-site estimate for your next project.</b>",
           "_tags": [
             "Theme"
